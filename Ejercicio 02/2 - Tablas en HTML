@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+<html>
+ <head>
+  <title> Ejercicio 02/2 - Tablas en HTML </title>
+   </head>
+    <body> 
+     <h3> TABLA DE AUTORES </h3>
+      <table> 
+	  <tr> 
+	   <th> <strong> · TITULO </strong> </th>
+	   <th> · AUTOR </th>
+	   <th> · AÑO DE PUBLICACIÓN </th>
+	   <th> · ENLACE A AMAZON </th>  
+	   <tr> 
+	    <td> <strong> · Discourse on Method and Related Writings </strong> </td>
+	    <td> <strong> · René Descartes </strong> </td>
+		<td> <strong> · 1637 </strong> </td>
+		<td> · <a href="https://a.co/d/h6dQEdW"> <strong> enlace </strong> </a> </td>
+		<tr> 
+		<td> <strong> · The Prince </strong> 
+		<td> <strong> ·  Niccolò Machiavelli </strong>
+		<td> <strong> · 1532 </strong> 
+		<td> · <a href="https://a.co/d/0GEsXh2"> <strong> enlace </strong> </a> </td> 
+		<tr>
+		<td> <strong> · Meditations </strong> </td>
+		<td> <strong> · Marcus Aurelius </strong> 
+        <td> <strong> · entre 170 y 180 </strong>
+		<td> · <a href="https://a.co/d/gKV3ory"> <strong> enlace </strong> </a> </td>  
+
+       </table> 
+
+    </body>
+</html>
